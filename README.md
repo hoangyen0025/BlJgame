@@ -11,4 +11,4 @@ Gameplay:
  - Dealer's turn: after player has completed their turn, the face down card will be revealed and must hit until their hand totals 17 or higher without exceeding it.
  - What I learned:
  -  - Understand Python syntax and improve readability and maintainablity by organizing code into functions
-    - Handle user input and implement rules of the game 
+    - Handle user input and implement rules of the BlackJack game 
